@@ -1,0 +1,76 @@
+    1  Java
+    2  ps aux | grep mysql
+    3  cd /usr/local/mysql
+    4  ls
+    5  cd bin/
+    6  ls
+    7  ./mysql -u root -p
+    8  cd
+    9  touch .bash_profile
+   10  vim .bash_profile 
+   11  ps aux | grep mysql
+   12  ./mysql -u root -p
+   13  vim .bash_profile 
+   14  touch .bash_profile
+   15  vim .bash_profile 
+   16  vim .bash_profile 
+   17  vim .bash_profile 
+   18  ./mysql -u root -p
+   19  mysql -u root -p
+   20  shutdown -h now
+   21  sudo su
+   22  shutdown -h now
+   23  sudo su
+   24  shutdown -h now
+   25  sudo
+   26  su
+   27  su
+   28  root
+   29  sudo su'
+   30  su user
+   31  su s.jhuang
+   32  exit
+   33  exit
+   34  sudu su
+   35  sudo su
+   36  exit
+   37  mkdir leetcode
+   38  cd desktop
+   39  mkdir leetcode
+   40  cd leetcode/
+   41  git init
+   42  ls 
+   43  ls -a
+   44  git add 两数之和.cpp 
+   45  ls
+   46  git commit -m "two numbers sum"
+   47  cd ~/.ssh
+   48  ssh-keygen -t rsa -C 1259479968@qq.com
+   49  cd ~/.ssh
+   50  cd ~
+   51  pwd
+   52  mkdir key_backup
+   53  cd .ssh
+   54  cp id_rsa* ~/key_backup/
+   55  cd ~/key_backup/
+   56  ls
+   57  cat id_rsa.pub 
+   58  ssh -T 1259479968@qq.com
+   59  ssh -T 1259479968@qq.com
+   60  ssh -T 1259479968@qq.com
+   61  ssh -T 1259479968@qq.com@github.com
+   62  ssh -T HSJ1996@github.com
+   63  ssh -T HSJ1996@github.com
+   64  ssh -T GIT@github.com
+   65  ssh -T git@github.com
+   66  git config --global user.name "huang"
+   67  git config --global user.email "1259479968@qq.com"
+   68  cd desktop/leetcode
+   69  cd ~/desktop
+   70  cd leetcode
+   71  ls -a
+   72  git remote add leetcode  git@github.com:HSJ1996/leetcode.git
+   73  git remote add origin  git@github.com:HSJ1996/leetcode.git
+   74  git remote add leetcode  git@github.com:HSJ1996/leetcode.git
+   75  git push -u leetcode master
+   76  history>git.txt
